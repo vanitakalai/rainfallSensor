@@ -5,5 +5,4 @@ The code requires the following setup on an ATMEGA328P.
 ![circuit diagram](http://imgur.com/zuxJcFJ.png)
 
 
-Code Functions:
-
+More informataion can be found in the final report. 
